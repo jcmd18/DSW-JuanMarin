@@ -1,0 +1,22 @@
+header{
+    background-color:#BCCC9A;
+}
+nav{
+    background-color:#d3af9d;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+section{
+    background-color:#EABF9F;
+    grid-column: 1/4;
+}
+aside{
+    background-color:steelblue;
+}
+footer{
+    background-color:#ffe08c;
+}
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 
+}
